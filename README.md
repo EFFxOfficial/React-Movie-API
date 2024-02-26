@@ -1,3 +1,6 @@
+Testing and learning more about how to work with React API as JSON. 
+This application fetches movies you write inside the input from an API. 
+
 - Run npx create-react-app ./
 - Install this
 - Test it
